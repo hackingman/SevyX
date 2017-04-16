@@ -16,13 +16,13 @@
 </item>
 
 <item>
-<title>[B][COLOR red]====== Categorie ====[/COLOR][/B]</title>
+<title>[B][COLOR red]===== Categorie ====[/COLOR][/B]</title>
 <link>ignora</link>
 <externallink></externallink>
 </item>
 
 <item>
-<title>[COLOR yellow][B]====== TV LIVE ======[/B][/COLOR]</title>
+<title>[COLOR yellow][B]===== TV LIVE ======[/B][/COLOR]</title>
 <link>ignora</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -30,7 +30,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]====== TV VOD  ======[/B][/COLOR]</title>
+<title>[COLOR yellow][B]===== TV VOD ======[/B][/COLOR]</title>
 <link>ignora</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -39,7 +39,7 @@
 
 
 <item> 
-<title>[COLOR yellow][B]====== FILM =========[/B][/COLOR]</title>
+<title>[COLOR yellow][B]===== FILM ========[/B][/COLOR]</title>
 <link>ignora</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -47,13 +47,13 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]====== SERIE TV =====[/B][/COLOR]</title>
+<title>[COLOR yellow][B]===== SERIE TV ====[/B][/COLOR]</title>
 <link>ignora</link>
 <externallink></externallink>
 </item>
 
 <item>
-<title>[COLOR yellow][B]====== XXX ADULTI ===[/B][/COLOR]</title>
+<title>[COLOR yellow][B]===== XXX ADULT ==[/B][/COLOR]</title>
 <link>ignora</link>
 <externallink>http://pastebin.com/raw/ZhU5X48W</externallink>
 </item>
