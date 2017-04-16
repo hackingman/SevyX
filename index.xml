@@ -1,17 +1,17 @@
 <item>
 <title>[COLOR blue][B]======================[/B][/COLOR]</title>
-<link>#</link>
+<link>ignora</link>
 <externallink></externallink>
 </item>
 <item>
 <title>[B][COLOR blue]::::: [COLOR yellow]Sevy[COLOR red]X [COLOR white] - ver. 1.0 [COLOR blue] :::::[/COLOR][/B]</title>
-<link>#</link>
+<link>ignora</link>
 <externallink></externallink>
 </item>
 
 <item>
 <title>[COLOR blue][B]======================[/B][/COLOR]</title>
-<link>#</link>
+<link>ignora</link>
 <externallink></externallink>
 </item>
 
@@ -24,6 +24,8 @@
 <item>
 <title>[COLOR yellow][B]====== TV LIVE ======[/B][/COLOR]</title>
 <link>ignora</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <externallink></externallink>
 </item>
 
@@ -37,7 +39,7 @@
 
 
 <item> 
-<title>[COLOR yellow][B]=======  FILM  =======[/B][/COLOR]</title>
+<title>[COLOR yellow][B]====== FILM =========[/B][/COLOR]</title>
 <link>ignora</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -45,13 +47,13 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]======================[/B][/COLOR]</title>
-<link>#</link>
+<title>[COLOR yellow][B]====== SERIE TV =====[/B][/COLOR]</title>
+<link>ignora</link>
 <externallink></externallink>
 </item>
 
 <item>
-<title>[B][COLOR magenta]:::[COLOR aqua] Cosa significa "Seleziona server?"[/B][/COLOR]</title>
+<title>[COLOR yellow][B]====== XXX ADULTI ===[/B][/COLOR]</title>
 <link>ignora</link>
 <externallink>http://pastebin.com/raw/ZhU5X48W</externallink>
 </item>
