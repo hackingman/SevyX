@@ -4,7 +4,7 @@
 <externallink></externallink>
 </item>
 <item>
-<title>[B][COLOR blue]::: [COLOR yellow]Sevy[COLOR red]X [COLOR white] - ver. 1.0 [COLOR blue]:::[/COLOR][/B]</title>
+<title>[B][COLOR blue]::::: [COLOR yellow]Sevy[COLOR red]X [COLOR white] - ver. 1.0 [COLOR blue] :::::[/COLOR][/B]</title>
 <link>#</link>
 <externallink></externallink>
 </item>
@@ -16,20 +16,20 @@
 </item>
 
 <item>
-<title>[B][COLOR red]==== Categorie ====[/COLOR][/B]</title>
+<title>[B][COLOR red]====== Categorie ====[/COLOR][/B]</title>
 <link>ignora</link>
 <externallink></externallink>
 </item>
 
 <item>
-<title>[COLOR yellow][B]======================[/B][/COLOR]</title>
+<title>[COLOR yellow][B]====== TV LIVE ======[/B][/COLOR]</title>
 <link>ignora</link>
 <externallink></externallink>
 </item>
 
 <item>
-<title>[B][COLOR magenta]:::[COLOR lime] Server 1: [COLOR lime]ONLINE[/B][/COLOR]</title>
-<link>gfjfsj</link>
+<title>[COLOR yellow][B]====== TV VOD  ======[/B][/COLOR]</title>
+<link>ignora</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>http://pastebin.com/raw/6kEVYbig</externallink>
@@ -37,8 +37,8 @@
 
 
 <item> 
-<title>[B][COLOR magenta]:::[COLOR lime] Server 2: [COLOR red]OFFLINE[/B][/COLOR]</title>
-<link>gfjfsj</link>
+<title>[COLOR yellow][B]=======  FILM  =======[/B][/COLOR]</title>
+<link>ignora</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>sdf</externallink>
