@@ -22,7 +22,7 @@
 </item>
 
 <item>
-<title>[COLOR lightgreen][B]===== TV LIVE ======[/B][/COLOR]</title>
+<title>[COLOR green][B]===== TV LIVE ======[/B][/COLOR]</title>
 <link>ignora</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -30,7 +30,7 @@
 </item>
 
 <item>
-<title>[COLOR lightgreen][B]===== TV VOD ======[/B][/COLOR]</title>
+<title>[COLOR green][B]===== TV VOD ======[/B][/COLOR]</title>
 <link>ignora</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -39,7 +39,7 @@
 
 
 <item> 
-<title>[COLOR lightgreen][B]===== FILM ========[/B][/COLOR]</title>
+<title>[COLOR green][B]===== FILM ========[/B][/COLOR]</title>
 <link>ignora</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -47,7 +47,7 @@
 </item>
 
 <item>
-<title>[COLOR lightgreen][B]===== SERIE TV ====[/B][/COLOR]</title>
+<title>[COLOR green][B]===== SERIE TV ====[/B][/COLOR]</title>
 <link>ignora</link>
 <externallink>https://raw.githubusercontent.com/hackingman/SevyX/master/serie-tv.xml</externallink>
 </item>
