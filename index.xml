@@ -44,7 +44,7 @@
 <item> 
 <title>[COLOR green][B]===== FILM ========[/B][/COLOR]</title>
 <link>ignora</link>
-<thumbnail></thumbnail>
+<thumbnail>https://cdn4.iconfinder.com/data/icons/pictograms-1/512/Video-512.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/hackingman/SevyX/master/img/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/hackingman/SevyX/master/film.xml</externallink>
 </item>
@@ -52,7 +52,7 @@
 <item>
 <title>[COLOR green][B]===== SERIE TV ====[/B][/COLOR]</title>
 <link>ignora</link>
-<thumbnail></thumbnail>
+<thumbnail>https://cdn4.iconfinder.com/data/icons/elega-music-controls/100/Genre-512.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/hackingman/SevyX/master/img/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/hackingman/SevyX/master/serie-tv.xml</externallink>
 </item>
@@ -60,7 +60,7 @@
 <item>
 <title>[COLOR red][B]===== XXX ADULT ==[/B][/COLOR]</title>
 <link>ignora</link>
-<thumbnail></thumbnail>
+<thumbnail>https://cdn0.iconfinder.com/data/icons/sex-toy/450/18_adults_only_sign_sex_porn-512.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/hackingman/SevyX/master/img/fanart.jpg</fanart>
 <parentalcontrol>1</parentalcontrol>
 <externallink>https://raw.githubusercontent.com/hackingman/SevyX/master/xxx.xml</externallink>
