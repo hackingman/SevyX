@@ -27,7 +27,7 @@
 <item>
 <title>[COLOR green][B]===== TV LIVE ======[/B][/COLOR]</title>
 <link>ignora</link>
-<thumbnail><i class="fa fa-television fa-6" aria-hidden="true"></i></thumbnail>
+<thumbnail>\f26c</thumbnail>
 <fanart>fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/hackingman/SevyX/master/tv-live.xml</externallink>
 </item>
