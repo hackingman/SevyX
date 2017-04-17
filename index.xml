@@ -62,5 +62,6 @@
 <link>ignora</link>
 <thumbnail></thumbnail>
 <fanart>fanart.jpg</fanart>
+<parentalcontrol>1</parentalcontrol>
 <externallink>https://raw.githubusercontent.com/hackingman/SevyX/master/xxx.xml</externallink>
 </item>
