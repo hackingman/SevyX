@@ -1,42 +1,42 @@
 <item>
 <title>[COLOR blue][B]===================[/B][/COLOR]</title>
 <link>ignora</link>
-<fanart>fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/hackingman/SevyX/master/img/fanart.jpg</fanart>
 <externallink></externallink>
 </item>
 <item>
 <title>[B][COLOR blue]::::: [COLOR yellow]Sevy[COLOR red]X [COLOR white] - ver. 1.0 [COLOR blue] :::::[/COLOR][/B]</title>
 <link>ignora</link>
-<fanart>fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/hackingman/SevyX/master/img/fanart.jpg</fanart>
 <externallink></externallink>
 </item>
 <item>
 <title>[COLOR blue][B]===================[/B][/COLOR]</title>
 <link>ignora</link>
-<fanart>fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/hackingman/SevyX/master/img/fanart.jpg</fanart>
 <externallink></externallink>
 </item>
 
 <item>
 <title>[B][COLOR yellow]===== Categorie ====[/COLOR][/B]</title>
 <link>ignora</link>
-<fanart>fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/hackingman/SevyX/master/img/fanart.jpg</fanart>
 <externallink></externallink>
 </item>
 
 <item>
 <title>[COLOR green][B]===== TV LIVE ======[/B][/COLOR]</title>
 <link>ignora</link>
-<thumbnail>\f26c</thumbnail>
-<fanart>fanart.jpg</fanart>
+<thumbnail>https://cdn3.iconfinder.com/data/icons/tools-solid-icons-vol-2/72/88-512.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/hackingman/SevyX/master/img/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/hackingman/SevyX/master/tv-live.xml</externallink>
 </item>
 
 <item>
 <title>[COLOR green][B]===== TV VOD ======[/B][/COLOR]</title>
 <link>ignora</link>
-<thumbnail></thumbnail>
-<fanart>fanart.jpg</fanart>
+<thumbnail>https://cdn4.iconfinder.com/data/icons/devices-24/64/tv_demand-512.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/hackingman/SevyX/master/img/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/hackingman/SevyX/master/tv-vod.xml</externallink>
 </item>
 
@@ -45,7 +45,7 @@
 <title>[COLOR green][B]===== FILM ========[/B][/COLOR]</title>
 <link>ignora</link>
 <thumbnail></thumbnail>
-<fanart>fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/hackingman/SevyX/master/img/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/hackingman/SevyX/master/film.xml</externallink>
 </item>
 
@@ -53,7 +53,7 @@
 <title>[COLOR green][B]===== SERIE TV ====[/B][/COLOR]</title>
 <link>ignora</link>
 <thumbnail></thumbnail>
-<fanart>fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/hackingman/SevyX/master/img/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/hackingman/SevyX/master/serie-tv.xml</externallink>
 </item>
 
@@ -61,7 +61,7 @@
 <title>[COLOR red][B]===== XXX ADULT ==[/B][/COLOR]</title>
 <link>ignora</link>
 <thumbnail></thumbnail>
-<fanart>fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/hackingman/SevyX/master/img/fanart.jpg</fanart>
 <parentalcontrol>1</parentalcontrol>
 <externallink>https://raw.githubusercontent.com/hackingman/SevyX/master/xxx.xml</externallink>
 </item>
