@@ -1,7 +1,16 @@
 <item>
-<title>[B][COLOR yellow]===== Le Streghe dell’Est End – Witches of East End ====[/COLOR][/B]</title>
-<link>ignora</link>
+<title>[B][COLOR yellow]==== Le Streghe dell’Est End – Witches of East End ====[/COLOR][/B]</title>
+<link>$doregex[makelist2]</link> 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR white][makelist2.param2][/COLOR][/B]</title>
+<link>[makelist2.param3]</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/564x/50/53/c4/5053c4142886f0e209627bf88d79fa2e.jpg</thumbnail>
-<fanart>https://aws.boxofficebuz.com/shows/images/fanart-267259-7.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/hackingman/SevyX/master/serie-tv/le-streghe-dell-east-end.xml</externallink>
+<fanart>https://aws.boxofficebuz.com/shows/images/fanart-267259-7.jpg</fanart>     
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*))]]></expres>
+<page><![CDATA[https://raw.githubusercontent.com/hackingman/SevyX/master/serie-tv/le-streghe-dell-east-end.xml]]></page>
+<cookieJar></cookieJar>
+</regex>
 </item>
