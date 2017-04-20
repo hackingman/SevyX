@@ -23,8 +23,8 @@
 <listrepeat><![CDATA[
 <title>[B][COLOR white][makelist2.param2][/COLOR][/B]</title>
 <link>[makelist2.param3]</link>
-<thumbnail>https://s-media-cache-ak0.pinimg.com/564x/50/53/c4/5053c4142886f0e209627bf88d79fa2e.jpg</thumbnail>
-<fanart>https://aws.boxofficebuz.com/shows/images/fanart-267259-7.jpg</fanart>     
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTEyODk5NTc2MjNeQTJeQWpwZ15BbWU4MDQ5NTgwOTkx._V1_UY1200_CR90,0,630,1200_AL_.jpg</thumbnail>
+<fanart>http://cinespression.it/wp-content/uploads/2016/12/westworld-season-1-wallpaper-high-definition-a24u3z21.jpg</fanart>     
 ]]></listrepeat>
 <expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*))]]></expres>
 <page><![CDATA[https://raw.githubusercontent.com/hackingman/SevyX/master/serie-tv/westworld.xml]]></page>
